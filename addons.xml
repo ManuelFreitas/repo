@@ -617,7 +617,7 @@ em procura livre na internet.. Enjoy !![/COLOR]
 
 <addon id="plugin.video.rsiptv"
        name="[COLOR blue]RS[/COLOR]IPTV"
-       version="0.10"
+       version="0.11"
        provider-name="RSIPTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
